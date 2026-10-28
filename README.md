@@ -33,4 +33,4 @@ This project analyzes 32 years of population data to identify growth and decline
 - `01-population-by-self-governed-unit.csv` — raw dataset
 
 ## Author
-Paylak Janiamian
+Paylak Janamyan
